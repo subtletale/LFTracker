@@ -1,0 +1,35 @@
+{
+    "goals": [
+        {
+            "id": 123,
+            "title": "Eat a serving of veggies",
+            "startDate": "2018-12-27T21:18:07.489Z",
+            "frequency": "daily",
+            "cycle": "daily",
+            "completion": 1
+        },
+        {
+            "id": 456,
+            "title": "Exercise 3 times a week",
+            "startDate": "2018-12-27T21:18:07.489Z",
+            "frequency": "weekly",
+            "cycle": "daily",
+            "completion": 3
+        },
+        {
+            "id": 789,
+            "title": "Read a blog post",
+            "startDate": "2018-12-27T21:18:07.489Z",
+            "frequency": "weekly",
+            "cycle": "weekly",
+            "completion": 1
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "parent": "123",
+            "genDate": "2018-12-27T21:18:07.489Z"
+        }
+    ]
+}
